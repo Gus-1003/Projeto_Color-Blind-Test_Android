@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ColorBlindTest</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="Texto_Tela_Imagem">Qual o número que aparece na imagem?</string>
+    <string name="Texto_Tela_Main_Titulo">O que é?</string>
+    <string name="Texto_Tela_Main_Introducao">Daltonismo é uma condição que possui como principal característica a dificuldade para distinguir o vermelho e o verde e, com menos frequência, o azul e o amarelo.</string>
+    <string name="Texto_Tela_Main_Titulo2">Faça o Teste!</string>
+    <string name="button_teste_1">Teste 1</string>
+    <string name="button_teste_2">Teste 2</string>
+    <string name="button_teste_3">Teste 3</string>
+    <string name="button_verificar">Verificar</string>
+    <string name="text_view_resposta_1">Resposta_1</string>
+    <string name="text_view_resposta_2">Resposta_2</string>
+    <string name="text_view_resposta_3">Resposta_3</string>
+    <string name="text_view_resultado_do_teste">Resultado_do_Teste</string>
+    <string name="text_view_suas_respostas">Suas Respostas:</string>
+    <string name="Aviso_Inicial">Realize o teste com calma!</string>
+    <string name="teste_Aprovado">Parabéns, você foi aprovado nos testes!</string>
+    <string name="teste_Invalido">Você apresentou respostas incorretas. Recomendamos que vá ao médico.</string>
+    <string name="Cancelado">Cancelado</string>
+</resources>
